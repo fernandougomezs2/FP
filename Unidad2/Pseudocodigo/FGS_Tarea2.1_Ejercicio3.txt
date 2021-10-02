@@ -1,0 +1,17 @@
+/*
+Fernando Ulises Gomez Sanchez
+ITPA
+TICs
+Hacer un programa que pida un numero y te de su cuadrado (usando una función)
+*/
+ALGORITMO NumeroAlCuadrado;
+VAR
+   INT x = numero1;
+   INT Alcuadrado
+INICIO
+   ESCRIBIR("Dame un numero" x = numero1);
+   LEER(numero1);
+   Alcuadrado = sqr(x);
+   ESCRIBIR("El numero capturado al cuadrado es:" Alcuadrado);
+FIN
+ 
