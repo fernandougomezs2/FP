@@ -13,11 +13,15 @@ VAR
    FLOAT calificacion4;
    FLOAT calificacion5;
 INICIO
-   ESCRIBIR("Dame los tus cinco caliificaciones");
+   ESCRIBIR("Dame tu primera caliificacion");
    LEER(calificacion1);
+   ESCRIBIR("Dame tu segunda caliificacion");
    LEER(calificacion2);
+   ESCRIBIR("Dame tu tercera caliificacion");
    LEER(calificacion3);
+   ESCRIBIR("Dame tu cuarta caliificacion");
    LEER(calificacion4);
+   ESCRIBIR("Dame tu quinta caliificacion");
    LEER(calificacion5);
    ESCRIBIR("Tus calificaciones son:", calificacion1, calificacion2, calificacion3, calificacion4, calificacion5 );
 FIN

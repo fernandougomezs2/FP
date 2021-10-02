@@ -10,8 +10,8 @@ VAR
    CARACTER Apellidos;
 INICIO
     ESCRIBIR("Dame tu nombre" Nombre);
-    ESCRIBIR("Dame tus apellidos" Apellidos);
     LEER(Nombre);
+    ESCRIBIR("Dame tus apellidos" Apellidos);
     LEER(Apellidos);
     ESCRIBIR("Tu nombre completo es:" Nombre Apellidos);
 FIN

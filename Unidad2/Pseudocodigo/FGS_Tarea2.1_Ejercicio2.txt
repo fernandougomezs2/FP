@@ -15,11 +15,15 @@ VAR
    FLOAT ResultadoSuma;
    FLOAT Promedio;
 INICIO
-   ESCRIBIR("Dame los tus cinco caliificaciones");
+   ESCRIBIR("Dame tu primera caliificacion");
    LEER(calificacion1);
+   ESCRIBIR("Dame tu segunda caliificacion");
    LEER(calificacion2);
+   ESCRIBIR("Dame tu tercera caliificacion");
    LEER(calificacion3);
+   ESCRIBIR("Dame tu cuarta caliificacion");
    LEER(calificacion4);
+   ESCRIBIR("Dame tu quinta caliificacion");
    LEER(calificacion5);
    ResultadoSuma = calificacion1 + calificacion2 + calificacion3 + calificacion4 + calificacion5;
    Promedio = ResultadoSuma / 5;

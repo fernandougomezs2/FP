@@ -1,0 +1,25 @@
+/*
+Fernando Ulises Gomez Sanchez
+ITPA
+TICs
+Hacer un programa que te pida dos números y te imprima el mayor
+*/
+ALGORITMO NumeroMayor;
+VAR
+   FLOAT numero1;
+   FLOAT numero2;
+INICIO
+   ESCRIBIR ("dame un numero numeros");
+   LEER(numero1);
+   ESCRIBIR ("dame otro numero numeros");
+   LEER(numero2);
+
+   IF numero1 es mas grande que numero2 esntonces que imprima valor;
+
+   IF numero1 > numero2;
+     ESCRIBIR (numero1);
+   IF numero1 < numero2;
+     ESCRIBIR (numero2);
+   ELSE
+     ESCRIBIR ("Son iguales")
+FIN
