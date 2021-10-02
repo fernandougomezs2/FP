@@ -1,0 +1,27 @@
+/*
+Fernando Ulises Gomez Sanchez
+ITPA
+TICs
+Hacer un programa que te pida las calificaciones (5 calificaciones) y que te de el promedio
+*/
+
+ALGORITMO CalificacionesPromedio;
+VAR
+   FLOAT calificacion1;
+   FLOAT calificacion2;
+   FLOAT calificacion3;
+   FLOAT calificacion4;
+   FLOAT calificacion5;
+   FLOAT ResultadoSuma;
+   FLOAT Promedio;
+INICIO
+   ESCRIBIR("Dame los tus cinco caliificaciones");
+   LEER(calificacion1);
+   LEER(calificacion2);
+   LEER(calificacion3);
+   LEER(calificacion4);
+   LEER(calificacion5);
+   ResultadoSuma = calificacion1 + calificacion2 + calificacion3 + calificacion4 + calificacion5;
+   Promedio = ResultadoSuma / 5;
+   ESCRIBIR("Tu promedio es de:" Promedio);
+FIN

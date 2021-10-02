@@ -1,0 +1,25 @@
+/*
+Fernando Ulises Gomez Sanchez
+ITPA
+TICs
+Hacer un programa que te pida las calificaciones (5 calificaciones) y las imprima en un renglón
+*/
+
+ALGORITMO Calificaciones;
+VAR
+   FLOAT calificacion1;
+   FLOAT calificacion2;
+   FLOAT calificacion3;
+   FLOAT calificacion4;
+   FLOAT calificacion5;
+INICIO
+   ESCRIBIR("Dame los tus cinco caliificaciones");
+   LEER(calificacion1);
+   LEER(calificacion2);
+   LEER(calificacion3);
+   LEER(calificacion4);
+   LEER(calificacion5);
+   ESCRIBIR("Tus calificaciones son:", calificacion1, calificacion2, calificacion3, calificacion4, calificacion5 );
+FIN
+
+
