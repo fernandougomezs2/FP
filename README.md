@@ -38,3 +38,13 @@ Carrera: TICs
 #### Operadores: Son símbolos que indican cómo se tienen que manipular los operandos. Los operadores junto con los operandos conforman una expresión, que es una fórmula que define el cálculo de un costo. 
 
 #### Constructores: Subrutina cuya tarea es inicializar un objeto de una clase. Se usa para generar tablas de clases virtuales y poder de esta forma desarrollar el polimorfismo.
+
+## Unidad 3:
+
+### Clase y un objeto en la programación
+
+#### Las clases y los objetos son los conceptos más importantes de la Programación Orientada por Objetos (POO), y están fuertemente relacionados. Los objetos se crean a partir de clases, y las clases sirven como plantillas para crear objetos. A los objetos también se les llama instancias de clase.
+#### Ejemplos:
+#### Objeto: "Perro" Atributos: "Nombre, Raza, Color, Altura" Metodos: "Comer(), Dormmir(), Ladrar()"
+#### Objeto: "Auto" Atributos: "Marca, Color, Modelo, Matricula" Metodos: "Conduce(), Derrapar(), Frenar()"
+#### Objeto: "Bisicleta" Atributos: "Color, Tipo de llanta, Material" Metodos: "Mover(), Frenar()"
