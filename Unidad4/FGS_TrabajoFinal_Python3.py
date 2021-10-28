@@ -1,7 +1,7 @@
 # Fernando Ulises Gomez Sanchez
 # Programa que te pida el semestre en el que estás y que te imprima las materias y créditos de cada semestre
 
-print ("Algoritmo NombreMayorCaracteres")
+print ("Algoritmo Semestres")
 
 s= int(input("En que semestre estas: 1, 2, 3, 4, 5, 6, 7, 8: "))
 if s == 1 :
