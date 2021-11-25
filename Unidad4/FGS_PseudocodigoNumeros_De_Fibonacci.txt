@@ -1,0 +1,30 @@
+# Fernando Ulises Gomez Sanchez
+
+INICIO
+Algoritmo NumF
+
+VAR
+n=int
+Total=int
+num1=1
+num2=1
+
+n=input("Inserta un numero: "))
+def fibonacci_iter(n):
+    if n == 1:
+        print('0')
+    elif n == 2:
+        print('0', '1')
+    else:
+        print('0')
+        print(num1)
+        print(num2)
+        for i in range(n-3):
+            total = num1 + num2
+            num2 = num1
+            num1 = Total
+            print(Total)
+            
+fibonacci_iter(n)
+
+FIN
