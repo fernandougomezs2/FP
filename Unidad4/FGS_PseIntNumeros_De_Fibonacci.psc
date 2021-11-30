@@ -1,5 +1,5 @@
 Algoritmo NumerosF
-	Definir numero_, a, b, tmp como Entero
+	Definir numero_, a, b, total como Entero
     Escribir "	Por favor ingrese la cantidad de números de la serie que se imprimirán:"
     Leer numero_
     b = 1
