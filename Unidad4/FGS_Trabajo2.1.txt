@@ -1,0 +1,16 @@
+INICIO
+Algoritmo CostoUPT;
+
+VAR
+
+Usuario tipo float
+Costo_Hora tipo float
+Paga tipo float
+
+Usuario= "Cuantas horas trabajaste "
+Costo_Hora= "Costo de horas "
+Paga = Usuario * Costo_Hora
+
+print(Paga)
+
+FIN

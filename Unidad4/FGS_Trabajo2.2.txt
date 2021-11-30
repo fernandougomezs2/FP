@@ -1,0 +1,16 @@
+Fernando Ulises Gomez Sanchez
+INICIO
+Algoritmo CantidadInvertir;
+
+VAR
+
+canridad tipo float
+interes tipo float
+años tipo int
+
+cantidad = "Cantidad a invertir: "
+interes = "Interés porcentual anual: "
+años = "Años: "
+print("Capital final: " cantidad * (interes / 100) * años)
+
+FIN
