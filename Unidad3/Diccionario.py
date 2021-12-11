@@ -27,7 +27,7 @@ print(Coche)
 
 Caballo = {
 	
-	"Nombre": "Nando",
+	"Nombre": "Nando1",
 	"Edad": "7",
 	"Peso": "50kg",
 	"Tamaño": "1.40",
