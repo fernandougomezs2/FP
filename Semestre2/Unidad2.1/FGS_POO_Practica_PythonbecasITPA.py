@@ -1,6 +1,5 @@
 print("BecasITPA")
 ciclo= 1
-
 while ciclo == 1:
     print("Datos del alumno")
     nom = str(input("Nombre del alumno: "))
